@@ -3,9 +3,9 @@
 let users = [
   {
     profilepic:
-      "./Asset/pr1.avif",
+      "/Asset/pr1.avif",
     displayPic:
-      "./Asset/ds1.avif",
+      "/Asset/ds1.avif",
     pendingMessage: 4,
     location: "Delhi, India",
     name: "Harshita",
@@ -29,9 +29,9 @@ let users = [
   },
   {
     profilepic:
-      "./Asset/pr2.avif",
+      "/Asset/pr2.avif",
     displayPic:
-      "./Asset/ds2.avif",
+      "/Asset/ds2.avif",
     pendingMessage: 3,
     location: "Bhopal, India",
     name: "Shivangi",
@@ -55,9 +55,9 @@ let users = [
   },
   {
     profilepic:
-      "./Asset/pr3.avif",
+      "/Asset/pr3.avif",
     displayPic:
-      "./Asset/ds3.avif",
+      "/Asset/ds3.avif",
     pendingMessage: 14,
     location: "Mumbai, India",
     name: "Mehak",
@@ -81,9 +81,9 @@ let users = [
   },
   {
     profilepic:
-      "./Asset/pr4.avif",
+      "/Asset/pr4.avif",
     displayPic:
-      "./Asset/ds4.avif",
+      "/Asset/ds4.avif",
     pendingMessage: 7,
     location: "Bangalore, India",
     name: "Muskan",
